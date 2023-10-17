@@ -1,0 +1,14 @@
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\bin\Debug\net6.0\Extention.exe
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\bin\Debug\net6.0\Extention.deps.json
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\bin\Debug\net6.0\Extention.runtimeconfig.json
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\bin\Debug\net6.0\Extention.dll
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\bin\Debug\net6.0\Extention.pdb
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfoInputs.cache
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfo.cs
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.dll
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\refint\Extention.dll
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.pdb
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\Extention.genruntimeconfig.cache
+C:\Users\I novbe\Desktop\BB103\Extention\Extention\obj\Debug\net6.0\ref\Extention.dll
